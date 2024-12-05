@@ -3,3 +3,14 @@ title: Propoganda and Politics
 layout: about
 permalink: /Propoganda.html
 ---
+
+<b>WWII Propaganda</b>
+
+During World War II, matchbooks were used alongside other popular mediums such as radio and poster ads to disseminated American propaganda at home and abroad.
+On the Homefront, matchbooks promoted campaigns like fuel and food rationing, victory gardens, and war bonds. Covers featured patriotic catchphrases and imagery or mocked the axis powers. "Strike 'em dead" matchbooks often deployed offensive racial stereotypes against Japanese soldiers. 
+During and after the war, the advertising industry adopted patriotism as a theme. Businesses used red, white and blue colors as well as star, stripe, and flag motifs in their matchbook designs.
+
+
+<b>"Politics"</b>
+
+Matchbooks were also a common type of political campaign merchandizing. From local and state elections to presidential campaigns, political candidates promoted themselves on matchbook covers. 
