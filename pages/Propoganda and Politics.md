@@ -3,22 +3,15 @@ title: Propoganda and Politics
 layout: about
 permalink: /Propoganda.html
 ---
-{% include feature/image.html objectid="coll006" width="50" caption="Selection of match covers from the 1940s-60s advertising products and business in the mid-Atlantic region. Notice the variety of font, color, and imagery. " %}
 
-<b>Mini Billboards</b>
+<b>WWII Propaganda</b>
 
-Throughout the 20th century, matchbooks were distributed for free with tobacco and packs of cigarettes, as well as given away by restaurant, hotels, airlines, and many other establishments. 
-Matchbooks were an ideal advertising medium: cheap and easy to produce, portable, and they doubled as functional objects. Logos and messaging would be seen every time the owner reached for a match. Matchbooks also provided multiple surfaces for which to place designs: the front and back covers, the exterior flap, the saddle, the striking surface, and even the matches themselves.
-Businesses who wanted to advertise on matchbooks could either hire their own graphic designer or advertising agency to make customized covers, or they could go straight to the manufacturer and choose from stock designs. Creating customized matchbooks allowed business to stay consistent with their branding and promote product recognition—not to mention custom covers were often more unique, creative, and visually interesting. Using stock images and phrases provided by matchbook manufacturers was more affordable and efficient. 
+During World War II, matchbooks were used alongside other popular mediums such as radio and poster ads to disseminated American propaganda at home and abroad. On the Homefront, matchbooks promoted campaigns like fuel and food rationing, victory gardens, and war bonds. Covers featured patriotic catchphrases and imagery or mocked the axis powers. "Strike 'em dead" matchbooks often deployed offensive racial stereotypes against Japanese soldiers. During and after the war, the advertising industry adopted patriotism as a theme. Businesses used red, white and blue colors as well as star, stripe, and flag motifs in their matchbook designs.
 
-{% include feature/image.html objectid="coll007" width="50" caption="Matchbook catalogs provided a variety of options for font, color, imagery, and layout that customers could choose from. It even makes suggestions as to what makes good advertising design " %}
+{% include feature/image.html objectid="coll014;coll015;coll016" width="50" caption="Matchbook encouraging Americans to buy war bonds during WWII. It includes "feature" matches in the shape of bombs, and quite a unique striking location: the seat of German Chancellor Adolph Hitler's pants" %}
 
-<b>"The Golden Age of Matchbooks"</b>
+<b>"Political Advertising"</b>
 
-Matchbooks reached their peak in the 1940s and 1950s. Cover Designs Followed broader trends in advertising during this period: bright bold colors, whimsical vignettes, and sexually suggestive imagery. Motifs of cowboys and pin up girls, dancing animals, speeding planes and sleek trains, gleaming skyscrapers, sun bathers on exotic beaches, and skiers on snowy mountains. 
+Matchbooks were also a common type of political campaign merchandizing. From local and state elections to presidential campaigns, political candidates promoted themselves on matchbook covers.
 
-{% include feature/image.html objectid="coll008;coll009;coll010;coll011" width="50" caption="Custom matchbooks were sometimes oversized, oblong, or uniquely shaped to enhance and/or accommodate a cover design; this matchbook serves as both advertisement for the restaurant, and also promotion of Cape Cod as a tourist destination via the map on the back cover; Architectural landmarks were a common feature on hotel matchbooks; The most successful matchbooks were both eye catching and informative, including the business’s location and phone number. " %}
-
-
-
-{% include feature/image.html objectid="coll012" width="75" caption="“Feature” matches were first introduced by the Lion Match Company in 1935, and the idea was quickly adopted across the industry. These matchbooks had advertisements not only on the covers but incorporated onto the matches themselves. " %}
+{% include feature/image.html objectid="coll017;coll018" width="50" caption="Richard Nixon 1972 Presidential Campaign Matchbook; Matchbook promoting the republican candidates for the 1958 Gubernatorial and U.S. Senate Elections in Pennsylvania" %}
