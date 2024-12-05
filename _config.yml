@@ -25,9 +25,11 @@ title: Matchbook Exhibit Test
 tagline: a template for creating simple digital exhibits
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: Matchbooks—originally ephemeral in nature, but now a hot collectable item—provide a perfect glimpse into the visual culture of the 20th century. They are a pocket-sized window to the past. 
+This exhibit will explore the history of matchbooks, from their advent to their development as an advertising tool, and finally their use by propogandists and subcultures.
+
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Anne Moore
 
 ##########
 # COLLECTION SETTINGS
