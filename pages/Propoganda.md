@@ -11,6 +11,6 @@ On the Homefront, matchbooks promoted campaigns like fuel and food rationing, vi
 During and after the war, the advertising industry adopted patriotism as a theme. Businesses used red, white and blue colors as well as star, stripe, and flag motifs in their matchbook designs.
 
 
-<b>"Politics"</b>
+<b>Politics</b>
 
 Matchbooks were also a common type of political campaign merchandizing. From local and state elections to presidential campaigns, political candidates promoted themselves on matchbook covers. 
