@@ -5,6 +5,8 @@ permalink: /EarlyMatchbooks.html
 ---
 <b>The Flexible Match</b>
 
+{% include feature/image.html objectid="coll003" %}
+
 Joshua Pusey, an inventor and patent attorney from Lima, Pennsylvania, is credited with creating the early matchbook. He wanted a portable, coinvent alternative to carrying around bulky boxes of matches, and patented his invention in 1892.  Diamond Match Company (DMC) bought the patent rights from Pusey in 1894 for $4,000 and hired him as a patent lawyer for the company to boot. DMC went on to be a giant of the matchbook industry, and pioneered advertising on the tiny objects. 
 
 <b>"Close Cover Before Striking"</b>
