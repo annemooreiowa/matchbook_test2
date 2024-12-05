@@ -1,7 +1,7 @@
 ---
 title: Propoganda and Politics
 layout: about
-permalink:/Propoganda.html
+permalink: /Propoganda.html
 ---
 
 <b>WWII Propaganda</b>
