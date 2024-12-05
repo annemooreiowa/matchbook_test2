@@ -11,7 +11,7 @@ On the Homefront, matchbooks promoted campaigns like fuel and food rationing, vi
 
 During and after the war, the advertising industry adopted patriotism as a theme. Businesses used red, white and blue colors as well as star, stripe, and flag motifs in their matchbook designs.
 
-{% include feature/image.html objectid="coll014;coll015;coll016;" width="50" caption="Matchbook encouraging Americans to buy war bonds during WWII;note the "feature" matches in the shape of bombs; uite a unique striking location—the seat of German Chancellor Adolph Hitler's pants. " %}
+{% include feature/image.html objectid="coll014;coll015;coll016" width="75" caption="atchbook encouraging Americans to buy war bonds during WWII;note the "feature" matches in the shape of bombs;A Unique Striking Area." %}
 
 
 <b>Politics</b>
