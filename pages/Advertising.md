@@ -3,7 +3,7 @@ title: Advertising
 layout: about
 permalink: /advertising.html
 ---
-{% include feature/image.html objectid="coll006" width="65" caption="Selection of match covers from the 1940s-60s advertising products and business in the mid-Atlantic region. Notice the variety of font, color, and imagery. " %}
+{% include feature/image.html objectid="coll006" width="50" caption="Selection of match covers from the 1940s-60s advertising products and business in the mid-Atlantic region. Notice the variety of font, color, and imagery. " %}
 
 <b>Mini Billboards</b>
 
@@ -17,7 +17,7 @@ Businesses who wanted to advertise on matchbooks could either hire their own gra
 
 Matchbooks reached their peak in the 1940s and 1950s. Cover Designs Followed broader trends in advertising during this period: bright bold colors, whimsical vignettes, and sexually suggestive imagery. Motifs of cowboys and pin up girls, dancing animals, speeding planes and sleek trains, gleaming skyscrapers, sun bathers on exotic beaches, and skiers on snowy mountains. 
 
-{% include feature/image.html objectid="coll008; coll009; coll010; coll011" width="50" caption="Custom matchbooks were sometimes oversized, oblong, or uniquely shaped to enhance and/or accommodate a cover design; this matchbook serves as both advertisement for the restaurant, and also promotion of Cape Cod as a tourist destination via the map on the back cover; Architectural landmarks were a common feature on hotel matchbooks; The most successful matchbooks were both eye catching and informative, including the business’s location and phone number. " %}
+{% include feature/image.html objectid="coll008;coll009;coll010;coll011" width="50" caption="Custom matchbooks were sometimes oversized, oblong, or uniquely shaped to enhance and/or accommodate a cover design; this matchbook serves as both advertisement for the restaurant, and also promotion of Cape Cod as a tourist destination via the map on the back cover; Architectural landmarks were a common feature on hotel matchbooks; The most successful matchbooks were both eye catching and informative, including the business’s location and phone number. " %}
 
 
 
