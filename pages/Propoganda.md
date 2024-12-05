@@ -16,4 +16,4 @@ During and after the war, the advertising industry adopted patriotism as a theme
 
 Matchbooks were also a common type of political campaign merchandizing. From local and state elections to presidential campaigns, political candidates promoted themselves on matchbook covers. 
 
-{% include feature/image.html objectid="coll017;coll018" width="50" caption="Richard Nixon 1972 Presidential Campaign Matchbook; o	Matchbook promoting the republican candidates for the 1958 Gubernatorial and U.S.  Senate Elections in Pennsylvania. " %}
+{% include feature/image.html objectid="coll017;coll018" width="50" caption="Richard Nixon 1972 Presidential Campaign Matchbook; Matchbook promoting the republican candidates for the 1958 Gubernatorial and U.S.  Senate Elections in Pennsylvania. " %}
