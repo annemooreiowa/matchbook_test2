@@ -22,5 +22,5 @@ In order to make matchbooks safer, Diamond Match Company decided to move the str
 From the 1890s, the matchbook industry developed alongside the tobacco industry. By the mid-20th Century, smoking was a public activity for all—not just men—and Tobacco products became a staple of American Culture. Matchbooks typically contained 20 matches-1 for every cigarette in a standard pack. In the 1940s multiple companies shortened the matches in books to better suite the size of cigarettes as they bypassed cigars in popularity. 
 The top producers of matchbooks included the Diamond Match Company, Lion Match Company, Universal Match Corporation, Ohio Match Company, and Superior Match Company.
 
-{% include feature/image.html objectid="coll005" width="50" caption="o	Workers Ohio Match Company in Wadsworth, Ohio in the 1940s and 1950s.  In 1945 it cost 1/5th of a cent to produce a matchbook, and around 500 billion individual matches were produced a year. " %}
+{% include feature/image.html objectid="coll005" width="75" caption="Workers Ohio Match Company in Wadsworth, Ohio in the 1940s and 1950s.  In 1945 it cost 1/5th of a cent to produce a matchbook, and around 500 billion individual matches were produced a year. " %}
 
