@@ -9,7 +9,6 @@ credits: true
 ---
 
 {% include feature/jumbotron.html objectid="coll002" %}
-
 ## About the Collection
 
 Matchbooks—originally ephemeral in nature, but now a hot collectable item—provide a perfect glimpse into the visual culture of the 20th century. They are a pocket-sized window to the past. 
