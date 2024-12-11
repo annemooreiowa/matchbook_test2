@@ -8,6 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+{% include feature/jumbotron.html objectid="coll002" %}
 
 ## About the Collection
 
@@ -27,10 +28,3 @@ This exhibit was made for educational purposes only and within the context of a 
 
 This exhibit was created by Anne Moore, for the University of Iowa Class Digital Environments and Library Users in the School of Library and Information Science. She may be contacted at Anne-moore@uiowa.edu
 
- 
-
-
-This Exhibit is a demo for learning how to use CollectionBUilder. This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
